@@ -5,7 +5,7 @@ Author：Zhiming Xue, Lili Zhang
  
 ## Features
 
-* Using Dart to develop a mobile app based on IOS and web
+* Using Flutter(Dart) to develop a mobile app based on IOS and web
 * Using firebase authentication for user login and registration verification
 * Using geolocator to automatically obtain the location information of published items
 * Stored and retrieved data using Firebase Storage and Firebase Realtime Database
